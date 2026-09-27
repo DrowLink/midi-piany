@@ -1,0 +1,62 @@
+{
+  "id": "c418-dry-hands",
+  "title": "Dry Hands (Minecraft)",
+  "artist": "C418",
+  "bpm": 72,
+  "duration": 25.0,
+  "notes": [
+    { "note": "A2", "time": 0.0, "duration": 1.6, "hand": "left" },
+    { "note": "E3", "time": 0.83, "duration": 1.6, "hand": "left" },
+    { "note": "G#4", "time": 0.83, "duration": 0.8, "hand": "right" },
+    { "note": "A3", "time": 1.66, "duration": 1.6, "hand": "left" },
+    { "note": "B4", "time": 1.66, "duration": 0.8, "hand": "right" },
+    { "note": "C#4", "time": 2.5, "duration": 1.6, "hand": "left" },
+    { "note": "E5", "time": 2.5, "duration": 1.4, "hand": "right" },
+
+    { "note": "F#2", "time": 3.6, "duration": 1.6, "hand": "left" },
+    { "note": "C#3", "time": 4.4, "duration": 1.6, "hand": "left" },
+    { "note": "A4", "time": 4.4, "duration": 0.8, "hand": "right" },
+    { "note": "F#3", "time": 5.2, "duration": 1.6, "hand": "left" },
+    { "note": "C#5", "time": 5.2, "duration": 0.8, "hand": "right" },
+    { "note": "A3", "time": 6.0, "duration": 1.6, "hand": "left" },
+    { "note": "E5", "time": 6.0, "duration": 1.4, "hand": "right" },
+
+    { "note": "D2", "time": 7.2, "duration": 1.6, "hand": "left" },
+    { "note": "A2", "time": 8.0, "duration": 1.6, "hand": "left" },
+    { "note": "F#4", "time": 8.0, "duration": 0.8, "hand": "right" },
+    { "note": "D3", "time": 8.8, "duration": 1.6, "hand": "left" },
+    { "note": "A4", "time": 8.8, "duration": 0.8, "hand": "right" },
+    { "note": "F#3", "time": 9.6, "duration": 1.6, "hand": "left" },
+    { "note": "D5", "time": 9.6, "duration": 1.4, "hand": "right" },
+
+    { "note": "E2", "time": 10.8, "duration": 1.6, "hand": "left" },
+    { "note": "B2", "time": 11.6, "duration": 1.6, "hand": "left" },
+    { "note": "E4", "time": 11.6, "duration": 0.8, "hand": "right" },
+    { "note": "E3", "time": 12.4, "duration": 1.6, "hand": "left" },
+    { "note": "G#4", "time": 12.4, "duration": 0.8, "hand": "right" },
+    { "note": "G#3", "time": 13.2, "duration": 1.6, "hand": "left" },
+    { "note": "B4", "time": 13.2, "duration": 1.4, "hand": "right" },
+
+    { "note": "A2", "time": 14.4, "duration": 2.2, "hand": "left" },
+    { "note": "E3", "time": 14.4, "duration": 2.2, "hand": "left" },
+    { "note": "C#4", "time": 14.4, "duration": 2.2, "hand": "left" },
+    { "note": "C#5", "time": 14.4, "duration": 1.0, "hand": "right" },
+    { "note": "B4", "time": 15.5, "duration": 1.0, "hand": "right" },
+    { "note": "A4", "time": 16.6, "duration": 1.6, "hand": "right" },
+
+    { "note": "F#2", "time": 17.8, "duration": 2.2, "hand": "left" },
+    { "note": "C#3", "time": 17.8, "duration": 2.2, "hand": "left" },
+    { "note": "A3", "time": 17.8, "duration": 2.2, "hand": "left" },
+    { "note": "A4", "time": 17.8, "duration": 1.0, "hand": "right" },
+    { "note": "G#4", "time": 18.9, "duration": 1.0, "hand": "right" },
+    { "note": "F#4", "time": 20.0, "duration": 1.8, "hand": "right" },
+
+    { "note": "D2", "time": 21.2, "duration": 2.4, "hand": "left" },
+    { "note": "A2", "time": 21.2, "duration": 2.4, "hand": "left" },
+    { "note": "F#4", "time": 21.2, "duration": 1.0, "hand": "right" },
+    { "note": "G#4", "time": 22.2, "duration": 1.0, "hand": "right" },
+    { "note": "A4", "time": 23.2, "duration": 2.2, "hand": "right" },
+    { "note": "E2", "time": 23.2, "duration": 2.2, "hand": "left" },
+    { "note": "B2", "time": 23.2, "duration": 2.2, "hand": "left" }
+  ]
+}
